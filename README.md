@@ -1,3 +1,4 @@
+![logo](https://github.com/KeshiniyMogan/KeshiniyMogan/blob/main/WELCOME%20TO%20KESHINIY%E2%80%99S%20GITHUB.png)
 <h1 align="center"><b> Hi there!</b>👋 </h1>
 
 <p align="left">Hi guys! I'm Keshiniy Mogan from Penang, Malaysia. Currently, a 4th-year student pursuing a Bachelor of Computer Science, majoring in Bioinformatics at the University Technology Malaysia (UTM). My academic goal is to graduate with the first honour of a degree and complete my education with a PhD. I'm a drive-to-achieve person who is always looking for new things to learn and adapt.</p>
