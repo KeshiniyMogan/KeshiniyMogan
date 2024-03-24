@@ -2,7 +2,7 @@
 
 Hi guys! I'm Keshiniy Mogan from Penang, Malaysia. Currently, a 4th-year student pursuing a Bachelor of Computer Science, majoring in Bioinformatics at the University Technology Malaysia (UTM). My academic goal is to graduate with the first honour of a degree and complete my education with a PhD. I'm a drive-to-achieve person who is always looking for new things to learn and adapt.
 
-<p align="left"> <img width="400" src="https://i.gifer.com/5Tz.gif" alt="Hello"/> </p>
+<p align="middle"> <img width="400" src="https://github.com/KeshiniyMogan/KeshiniyMogan/blob/main/5Tz.gif" alt="Hello"/> </p>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshiniymogan&label=Profile%20views&color=0e75b6&style=flat" alt="keshiniymogan" /> </p>
 
 - 🔭 I’m currently working on **Final Year Project (PSM2)**
